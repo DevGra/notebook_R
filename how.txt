@@ -1,0 +1,13 @@
+﻿para instalar o jupiter R
+
+ 	pip install -c r r-irkernel
+
+para acessar a configuração do jupyter
+
+	.jupyter
+	jupyter_notebook_config.py
+
+para iniciar o jupyter, no prompt de comando:
+	jupyter notebook
+
+
