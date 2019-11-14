@@ -7,3 +7,4 @@
 *.ff
 .ipynb_checkpoints
 Pnad/*.txt
+Pnad/*.csv
